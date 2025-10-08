@@ -1,5 +1,5 @@
 name = "GMPackage.jl"
-uuid = ""44e75031-cc4c-4d90-81fd-ee9e8dcc8bb0"
+uuid = "44e75031-cc4c-4d90-81fd-ee9e8dcc8bb0"
 authors = ["Guy Morad <guymorad310@gmail.com>"]
 version = "0.1.0"
 
