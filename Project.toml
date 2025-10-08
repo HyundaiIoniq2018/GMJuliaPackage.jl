@@ -1,0 +1,7 @@
+name = "GMJuliaPackage"
+uuid = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+authors = ["Your Name <your.email@example.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
