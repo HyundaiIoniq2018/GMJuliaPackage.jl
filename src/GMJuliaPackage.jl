@@ -1,4 +1,4 @@
-module GMPackage.jl
+module GMPackage
 
 greet() = print("Coming Soon!")
 
