@@ -1,6 +1,6 @@
 name = "GMJuliaPackage"
-uuid = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-authors = ["Your Name <your.email@example.com>"]
+uuid = "ef4ba080-0d12-4f71-9b1a-e93f2ff34bb2"
+authors = ["Guy Morad <guymorad310@gmail.com>"]
 version = "0.1.0"
 
 [compat]
